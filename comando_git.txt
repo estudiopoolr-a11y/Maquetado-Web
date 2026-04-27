@@ -22,7 +22,7 @@ git push -u origin main
 git status
 (Comprueba el estado de la rama)
 
-gitIremote add origin https://github.com/Dhaniel-05/maquetado_web.git
+git remote add origin https://github.com/estudiopoolr-a11y/Maquetado-Web.git
 (Añade la dirección de su repositorio se hace o ejecuta una única vez).
 
 Cambios
